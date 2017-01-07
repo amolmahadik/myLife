@@ -6,4 +6,11 @@ last Modified Now.
 
 
 This file change on web.
+<<<<<<< HEAD
+>>>>>>> branch 'master' of https://github.com/amolmahadik/myLife.git
+=======
+
+
+
+This is last change by Amol.
 >>>>>>> branch 'master' of https://github.com/amolmahadik/myLife.git
