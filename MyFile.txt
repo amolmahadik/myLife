@@ -1,3 +1,9 @@
 Amol Mahadik
+<<<<<<< HEAD
 yghvjm
 last Modified Now.
+=======
+
+
+This file change on web.
+>>>>>>> branch 'master' of https://github.com/amolmahadik/myLife.git
