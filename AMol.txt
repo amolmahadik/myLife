@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hiii jlkefnbdkjvb
 
 
 
 are you ohk?
+=======
+
+>>>>>>> branch 'master' of https://github.com/amolmahadik/myLife.git
